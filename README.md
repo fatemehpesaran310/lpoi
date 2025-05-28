@@ -1,7 +1,7 @@
 # LPOI
 Official PyTorch implementation of **"LPOI: Listwise Preference Optimization for Vision Language Models", (ACL 2025 Main)** 
 
-- **Paper: [Link]()**
+- **Paper: [Link](https://arxiv.org/abs/2505.21061)**
 - **Project Page: [Link](https://fatemehpesaran310.github.io/projects/lpoi.html)**
 
 ![image samples](asset/figure.png)
