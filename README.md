@@ -53,7 +53,7 @@ To train **LLaVA-v1.5-13B** model, run:
 python lpoi_llava_13b.py
 ```
 
-We used a **single GPU with 48GB memory** for training Idefics-2 and LLaVA-v1.5-7B models and a **two GPUs with 48GB memory** for training LLaVA-v1.5-13B model.
+We used a **single GPU with 48GB memory** for training Idefics-2 and LLaVA-v1.5-7B models and  **two GPUs with 48GB memory** for training LLaVA-v1.5-13B model.
 
 
 ## Generating
