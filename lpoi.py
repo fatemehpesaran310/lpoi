@@ -19,8 +19,8 @@ from datasets import features, load_dataset
 from transformers import AutoModelForVision2Seq, AutoProcessor
 import torch
 
-from my_dpo_trainer_5img import DPOTrainer
-from my_dpo_config import DPOConfig
+from lpoi_dpo_trainer_5img import DPOTrainer
+from lpoi_dpo_config import DPOConfig
 from PIL import Image
 
 
