@@ -98,7 +98,7 @@ Cite our paper if you use this code 😊:
 ```bibtex
 @inproceedings{pesaranzadeh2025lpoi,
   title = "LPOI: Listwise Preference Optimization for Vision Language Models",
-  author = "Pesaran zadeh, Fatemeh  and Oh, Yoojin  and Kim, Gunhee",
+  author = "Pesaran Zadeh, Fatemeh  and Oh, Yoojin  and Kim, Gunhee",
   booktitle = "Proceedings of the 2025 Conference on Association for Computational Linguistics",
   year = "2025",
 }
